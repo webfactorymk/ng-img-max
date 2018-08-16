@@ -21,7 +21,7 @@
     ]
   },
   "files": [
-    "ng2-img-max.ts"
+    "ng2-img-max-cl.ts"
   ],
   "angularCompilerOptions": {
     "strictMetadataEmit": true
